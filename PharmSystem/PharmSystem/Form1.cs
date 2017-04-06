@@ -12,7 +12,6 @@ namespace PharmSystem
 {
     public partial class Form1 : Form
     {
-    //hey matt
         public Form1()
         {
             InitializeComponent();
